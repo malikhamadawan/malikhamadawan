@@ -1,4 +1,4 @@
- <h1 align="center">Hi there, I'm Hammad Awan 👋</h1>
+ <h1 align="left">Hi there, I'm Hammad Awan 👋</h1>
 I'm a self-taught passionate developer.
 
 - 🌱 I’m currently learning Backend
