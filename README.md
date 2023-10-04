@@ -1,19 +1,18 @@
-# Hi there, I'm Hammad Awan 👋
-
+ <h1 align="center">Hi there, I'm Hammad Awan 👋</h1>
 I'm a self-taught passionate developer.
 
 - 🌱 I’m currently learning Backend
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about Backend and DevOps
 
-## Connect with me
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hamad-awan-a38139177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20733141/hamad-awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9690365" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
 
 
 
