@@ -1,28 +1,26 @@
 # Hi there, I'm Hammad Awan 👋
 
-### I'm a self-taught passionate developer.
+I'm a self-taught passionate developer.
 
- - 🌱 I’m currently learning Backend<br/>
- - 👯 I’m looking to collaborate with other developers<br/>
- - 🥅 2023 Goals: Learn more about Backend and DevOps
+- 🌱 I’m currently learning Backend
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2023 Goals: Learn more about Backend and DevOps
 
-#### Connect with me:
-<br/>
-<a href="https://twitter.com/HamadAw18799765?t=_GF4FnpYxmckwtCWs1bGIw&s=08">
-    <img src="https://github.com/malikhamadawan/My-Bio/assets/92512393/1d4a1759-e4dd-43c8-ad3d-c3b131b8a31b.png" alt="Twitter">
-</a>
+## Connect with me
 
-<a href="https://www.linkedin.com/in/hamad-awan-a38139177/">
-    <img src="https://github.com/malikhamadawan/My-Bio/assets/92512393/acaa2c83-a853-4391-a3e9-a2d8ef6cc726.png" alt="LinkedIn">
-</a>
+[![Twitter](https://image.flaticon.com/icons/png/512/124/124021.png)](https://twitter.com/HamadAw18799765?t=_GF4FnpYxmckwtCWs1bGIw&s=08)
+[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/hamad-awan-a38139177/)
+[![Instagram](https://image.flaticon.com/icons/png/512/174/174855.png)](https://www.instagram.com/)
 
-<a href="https://www.instagram.com/">
-    <img src="https://github.com/malikhamadawan/My-Bio/assets/92512393/f25599f2-dcd0-4aa8-b800-0e21dbc13838.png" alt="Instagram">
-</a>
+## Languages and Tools
 
-</a>  <br/>
-#### Languages and Tools:
-<br/>
- VS CODE&nbsp;||&nbsp;JAVASCRIPT&nbsp;||&nbsp;REACT JS &nbsp;||&nbsp;REACT-NATIVE&nbsp;||&nbsp;NEXT JS &nbsp;||&nbsp;NODE JS &nbsp;||&nbsp;MONGODB&nbsp;||&nbsp;EXPRESS
+![VS Code](https://path-to-your-vscode-logo.png)
+![JavaScript](https://path-to-your-javascript-logo.png)
+![React JS](https://path-to-your-react-logo.png)
+![React Native](https://path-to-your-react-native-logo.png)
+![Next.js](https://path-to-your-nextjs-logo.png)
+![Node.js](https://path-to-your-nodejs-logo.png)
+![MongoDB](https://path-to-your-mongodb-logo.png)
+![Express](https://path-to-your-express-logo.png)
 
-<a href="https://app.daily.dev/hammadawan"><img src="https://api.daily.dev/devcards/b798ac9e570b4914abe1767b9141a09a.png?r=x2s" width="400" alt="Hammad Awan's Dev Card"/></a>
+![Hammad Awan's Dev Card](https://api.daily.dev/devcards/b798ac9e570b4914abe1767b9141a09a.png?r=x2s)
